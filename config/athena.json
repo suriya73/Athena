@@ -1,0 +1,14 @@
+{
+  "configuration":{
+    "AUTOMATIC_PUBLIC_KEY_GENERATOR":"true",
+    "PUBLIC_KEY_IF_MANUAL":"",
+    "RANDOM_PASSPHRASE":"false",
+    "PASSPHARSE":"testtest",
+    "ENCRYPTION_TYPE":"AES_256",
+    "KEY_SIZE":"1024",
+    "RANDOM_IDENTITY":"false",
+    "KEY_IDENTITY":"hack@theplanet.org",
+    "PRIVATE_KEY":"",
+    "EXT":".athena_enc"
+  }
+}
