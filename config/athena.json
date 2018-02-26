@@ -3,7 +3,7 @@
     "AUTOMATIC_PUBLIC_KEY_GENERATOR":"true",
     "PUBLIC_KEY_IF_MANUAL":"",
     "RANDOM_PASSPHRASE":"false",
-    "PASSPHARSE":"testtest",
+    "PASSPHARSE":"testtestORchangeit",
     "ENCRYPTION_TYPE":"AES_256",
     "KEY_SIZE":"1024",
     "RANDOM_IDENTITY":"false",
